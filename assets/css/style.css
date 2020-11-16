@@ -552,7 +552,7 @@ section {
   z-index: 3;
   position: absolute;
   transition: all ease-in-out 0.3s;
-  display: flex;
+  display: block;
   justify-content: center;
 }
 
